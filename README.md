@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/24Vaidehi-bot/leetcode-questions-/tree/master/0023-merge-k-sorted-lists) |
+| [1206-design-skiplist](https://github.com/24Vaidehi-bot/leetcode-questions-/tree/master/1206-design-skiplist) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/24Vaidehi-bot/leetcode-questions-/tree/master/0023-merge-k-sorted-lists) |
+## Design
+|  |
+| ------- |
+| [1206-design-skiplist](https://github.com/24Vaidehi-bot/leetcode-questions-/tree/master/1206-design-skiplist) |
 <!---LeetCode Topics End-->
