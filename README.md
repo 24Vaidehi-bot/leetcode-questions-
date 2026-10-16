@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/24Vaidehi-bot/leetcode-questions-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/24Vaidehi-bot/leetcode-questions-/tree/master/0074-search-a-2d-matrix) |
 | [0215-kth-largest-element-in-an-array](https://github.com/24Vaidehi-bot/leetcode-questions-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/24Vaidehi-bot/leetcode-questions-/tree/master/0347-top-k-frequent-elements) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/24Vaidehi-bot/leetcode-questions-/tree/master/0073-set-matrix-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/24Vaidehi-bot/leetcode-questions-/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -67,5 +69,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/24Vaidehi-bot/leetcode-questions-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/24Vaidehi-bot/leetcode-questions-/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
